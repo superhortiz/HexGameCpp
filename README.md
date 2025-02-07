@@ -11,7 +11,7 @@ The rules of Hex are simple:
 
 1. The game is played on a hexagonal grid.
 2. Two players take turns placing their stones on empty hexagons.
-3. The goal is to connect your two opposite sides of the board with a continuous path of your stones.  Blue tries to connect North and South. Red tries to connect East and West.
+3. The goal is to connect your two opposite sides of the board with a continuous path of your stones.  Red tries to connect North and South. Blue tries to connect East and West.
 4. The first player to connect their sides wins.
 
 In this implementation:
