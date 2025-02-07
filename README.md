@@ -23,8 +23,8 @@ In this implementation:
 ## Build Instructions
 
 1. Make sure you have a C++ compiler (like g++) installed on your system.
-2. Clone this repository: `git clone https://github.com/[your-username]/CppHex.git` (Replace with your actual repo URL)
-3. Navigate to the project directory: `cd CppHex`
+2. Clone this repository.
+3. Navigate to the project directory.
 4. Use `make` to build the game: `make hexgame`
 
 ## Features
