@@ -3,7 +3,7 @@ A C++ implementation of the game Hex, featuring a Monte Carlo AI opponent.
 
 ## Introduction
 
-CppHex is a C++ implementation of the classic strategy game Hex.  The game is played on a hexagonal grid, and the goal is for each player to connect their two opposite sides of the board with a path of their stones. This version includes a computer AI opponent that uses a Monte Carlo simulation to choose its moves.
+HexGameCpp is a C++ implementation of the classic strategy game Hex.  The game is played on a hexagonal grid, and the goal is for each player to connect their two opposite sides of the board with a path of their stones. This version includes a computer AI opponent that uses a Monte Carlo simulation to choose its moves.
 
 ## How to Play
 
